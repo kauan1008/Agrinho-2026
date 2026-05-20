@@ -89,14 +89,14 @@ function toggleTech(button) {
 // Dados do quiz
 const quizData = [
     {
-        pergunta: "O que é agricultura de precisão?",
+        pergunta: "O que caracteriza um agronegócio sustentável?",
         opcoes: [
-            "Aplicação localizada de insumos usando GPS",
-            "Plantio manual muito cuidadoso",
-            "Uso de muitos agroquímicos",
-            "Cultivo apenas em clima frio"
+            " Produção agrícola com foco apenas no lucro",
+            " Uso de práticas que equilibram produção, meio ambiente e responsabilidade social",
+            " Uso exclusivo de máquinas modernas",
+            " Produção agrícola sem tecnologia"
         ],
-        resposta: 0
+        resposta: 2
     },
     {
         pergunta: "Qual é o benefício principal dos drones na agricultura?",
