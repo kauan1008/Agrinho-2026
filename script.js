@@ -109,44 +109,44 @@ const quizData = [
         resposta: 1
     },
     {
-        pergunta: "Como a IA ajuda no agronegócio?",
+        pergunta: " O que é agricultura de precisão?",
         opcoes: [
-            "Apenas para decoração das fazendas",
-            "Análise preditiva de dados para otimizar plantio e irrigação",
-            "Para substituir os animais da fazenda",
-            "Não tem utilidade no campo"
+            "Plantio feito apenas manualmente",
+            "Uso de tecnologia e dados para otimizar a produção",
+            "gricultura sem irrigação",
+            "Método de cultivo urbano"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "Qual é o impacto dos sensores IoT na água?",
+        pergunta: "Qual é um benefício do uso racional da água na agricultura?",
         opcoes: [
-            "Aumentam o consumo de água",
-            "Permitem irrigação precisa, economizando até 40% de água",
-            "Poluem a água do solo",
-            "Não têm relação com água"
+            "Aumento do desperdício",
+            "Redução da produtividade",
+            "Conservação dos recursos hídricos",
+            "Maior erosão do solo"
         ],
-        resposta: 1
+        resposta: 3
     },
     {
-        pergunta: "Por que a rotação de culturas é importante?",
+        pergunta: "Maior erosão do solo?",
         opcoes: [
-            "Para confundir os insetos",
-            "Mantém a fertilidade do solo e reduz pragas naturalmente",
-            "Apenas para decoração visual",
-            "Não tem importância"
+            "Aumento da erosão",
+            "Conservação do solo e retenção de umidade",
+            "Redução da matéria orgânica",
+            "Compactação extrema do solo"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "Qual é o objetivo do Agrinho?",
+        pergunta: "O que significa ESG no contexto do agronegócio?",
         opcoes: [
-            "Incentivar o ensino de tecnologia e programação com foco em sustentabilidade agrícola",
-            "Vender produtos agrícolas",
-            "Apenas para diversão",
-            "Ensinar apenas matemática"
+            "Estratégia Simples de Gestão",
+            "Environmental, Social and Governance",
+            "Economia Sustentável Global",
+            "Empresa Social de Grãos"
         ],
-        resposta: 0
+        resposta: 2
     }
 ];
 
